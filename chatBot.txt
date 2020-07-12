@@ -1,0 +1,126 @@
+IT|FR|ES|EN|DE
+
+
+INDUSTRIES
+SOLUTIONS
+PRODUCTS
+COMPANY
+Chatbot: What is Chatbot? Why are Chatbots Important?
+Home » Artificial Intelligence » Blog » Chatbot applications » Chatbot: What is Chatbot? Why are Chatbots Important?
+Chatbot: What is Chatbot? Why are Chatbots Important?
+ Artificial Intelligence, Chatbot applications
+Chatobot
+What is chatbot? Why are chatbots important? Chatbot applications AI chatbot: Which chatbot application is right for you?
+
+Recently, new tools designed to simplify the interaction between humans and computers have hit the market: Chatbots or Virtual Assistants. In banking, chatbots and virtual assistants are some of the industry’s newest tools designed to simplify the interaction between humans and computers.
+
+What exactly is a chatbot?
+A chatbot is an artificial intelligence (AI) software that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile apps or through the telephone.
+Why are chatbots important? A chatbot is often described as one of the most advanced and promising expressions of interaction between humans and machines. However, from a technological point of view, a chatbot only represents the natural evolution of a Question Answering system leveraging Natural Language Processing (NLP). Formulating responses to questions in natural language is one of the most typical Examples of Natural Language Processing applied in various enterprises’ end-use applications.
+
+ 
+
+Behind the scenes: How a chatbot works
+There are two different tasks at the core of a chatbot:
+user request analysis
+returning the response
+
+How Chatbot Works
+How a Chatbot Works: As you can see in this graphic, a chatbot returns a response based on input from a user. This process may look simple; in practice, things are quite complex.
+
+User request analysis: this is the first task that a chatbot performs. It analyzes the user’s request to identify the user intent and to extract relevant entities.
+
+ 
+
+How Chatbot Works
+How a Chatbot Works: Example of user request analysis.
+
+The ability to identify the user’s intent and extract data and relevant entities contained in the user’s request is the first condition and the most relevant step at the core of a chatbot: If you are not able to correctly understand the user’s request, you won’t be able to provide the correct answer.
+Returning the response: once the user’s intent has been identified, the chatbot must provide the most appropriate response for the user’s request. The answer may be:
+
+• a generic and predefined text
+• a text retrieved from a knowledge base that contains different answers
+• a contextualized piece of information based on data the user has provided
+• data stored in enterprise systems
+• the result of an action that the chatbot performed by interacting with one or more backend application
+• a disambiguating question that helps the chatbot to correctly understand the user’s request
+
+Why chatbots are important
+Chatbot applications streamline interactions between people and services, enhancing customer experience. At the same time, they offer companies new opportunities to improve the customers engagement process and operational efficiency by reducing the typical cost of customer service.
+
+To be successful, a chatbot solution should be able to effectively perform both of these tasks. Human support plays a key role here: Regardless of the kind of approach and the platform, human intervention is crucial in configuring, training and optimizing the chatbot system.
+Which chatbot application is right for you?
+There are different approaches and tools that you can use to develop a chatbot. Depending on the use case you want to address, some chatbot technologies are more appropriate than others. In order to achieve the desired results, the combination of different AI forms such as natural language processing, machine learning and semantic understanding may be the best option.
+In upcoming posts, we will give you an overview of the main chatbot applications so you can evaluate them based on your specific needs and desired goals.
+
+Learn more about AI Chatbots for your business: Contact us today to request a demo!
+
+Expert System Team
+Expert System Team
+Our team of IT marketing professionals and digital enthusiasts are passionate about semantic technology and cognitive computing and how it will transform our world. We’ll keep you posted on the latest Expert System products, solutions and services, and share the most interesting information on semantics, cognitive computing and AI from around the web, and from our rich library of white papers, customer case studies and more.
+
+BLOGGERS
+ Marco Varone
+ Daniel Mayer
+ Andrea Melegari
+ Marketing Staff
+CATEGORIES
+Machine learning
+Artificial Intelligence
+Knowledge management
+Social media monitorning
+Cognitive computing
+NLP
+Enitity Extraction
+Robotic Process Automation
+Customer Support & Chatbot
+Corporate Intelligence
+Automatic Classification
+Risk Mitigation
+OSINT
+INDUSTRIES
+Banking & Insurance
+Defence & Intelligence
+Public Administration
+Life Science & Pharma
+Oil & Gas
+Media & Publishing
+Others
+ARCHIVE
+►2019
+►2018
+►2017
+►2016
+►2015
+►2014
+►2013
+►2012
+►2011
+►2010
+►2009
+►2008
+►2007
+►2006
+►2005
+►2004
+ Want to learn more?
+COGITO TECHNOLOGY – DON’T SETTLE FOR LESS THAN TRUE AI
+
+LAST TWEET
+
+LATEST POSTS
+ Expert System Named for the Fifth Time in a Row One Of “100 Companies That Matter in Knowledge Management” March 26, 2019
+ Expert System Announces New Release of its Flagship AI Platform Cogito® March 19, 2019
+ Intelligent Underwriting: Future Risk Engineering March 15, 2019
+ INVESTOR RELATIONS
+ NEWS
+ RESOURCES
+ DEMO
+ VIDEO
+ EXPERT IQ REPORTS
+ NEWSLETTER
+Copyright © 2019 Expert System S.p.A. | P.I. 02608970360
+CONTACT
+PRIVACY POLICY
+TERMS OF USE
+COMPANY DATA
